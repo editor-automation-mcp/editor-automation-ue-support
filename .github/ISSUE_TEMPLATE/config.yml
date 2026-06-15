@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💡 Feature request / idea
+    url: https://github.com/editor-automation-mcp/editor-automation-ue-support/discussions/new?category=ideas
+    about: Suggest a new or extra feature. These go to Discussions → Ideas, where they can be voted on.
+  - name: 📖 Install / usage question
+    url: https://github.com/editor-automation-mcp/editor-automation-ue-support/discussions/categories/q-a
+    about: Questions about installing or using the plugin go to Discussions → Q&A.
